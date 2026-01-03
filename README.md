@@ -19,6 +19,15 @@ to support data-driven business decisions.
 - Category and region-wise performance analysis
 - Discount and delivery impact on profitability
 
+ ## 📸 Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](Screenshots/page1_executive_overview.png)
+
+### Sales & Profit Analysis
+![Sales & Profit Analysis](Screenshots/page2_sales_profit_analysis.png)
+
+
 ## 🧩 Data Modeling
 - Star schema with a custom Date dimension
 - Fact table: Sales
