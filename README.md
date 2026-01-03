@@ -25,7 +25,7 @@ to support data-driven business decisions.
 ![Executive Overview](page1_executive_overview.png)
 
 ### Sales & Profit Analysis
-![Sales & Profit Analysis](Screenshots/page2_sales_profit_analysis.png)
+![Sales & Profit Analysis](page2_sales_profit_analysis.png)
 
 
 ## 🧩 Data Modeling
