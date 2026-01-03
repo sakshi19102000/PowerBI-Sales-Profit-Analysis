@@ -22,7 +22,7 @@ to support data-driven business decisions.
  ## 📸 Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Screenshots/page1_executive_overview.png)
+![Executive Overview](page1_executive_overview.png)
 
 ### Sales & Profit Analysis
 ![Sales & Profit Analysis](Screenshots/page2_sales_profit_analysis.png)
